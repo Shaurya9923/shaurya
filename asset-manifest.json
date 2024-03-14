@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shaurya/static/css/main.3a666be3.css",
-    "main.js": "/shaurya/static/js/main.8ef08158.js",
+    "main.js": "/shaurya/static/js/main.2fc07daf.js",
     "static/media/shaurya-about.jpg": "/shaurya/static/media/shaurya-about.6eff630f4497ea15234b.jpg",
     "static/media/logo1.jpg": "/shaurya/static/media/logo1.72b59b4f01b31c704975.jpg",
     "static/media/shaurya-header2.jpg": "/shaurya/static/media/shaurya-header2.72b59b4f01b31c704975.jpg",
@@ -17,10 +17,10 @@
     "static/media/cv.pdf": "/shaurya/static/media/cv.0f9be1a8763abccb70b0.pdf",
     "index.html": "/shaurya/index.html",
     "main.3a666be3.css.map": "/shaurya/static/css/main.3a666be3.css.map",
-    "main.8ef08158.js.map": "/shaurya/static/js/main.8ef08158.js.map"
+    "main.2fc07daf.js.map": "/shaurya/static/js/main.2fc07daf.js.map"
   },
   "entrypoints": [
     "static/css/main.3a666be3.css",
-    "static/js/main.8ef08158.js"
+    "static/js/main.2fc07daf.js"
   ]
 }
